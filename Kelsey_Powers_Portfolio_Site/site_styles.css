@@ -1,0 +1,486 @@
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Home {
+		position: absolute;
+		background: #E5E5E5;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Home;
+		--web-view-id: Home;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+#Kelsey_Powers_Index {
+		position: absolute;
+		left: 779px;
+		top: 103px;
+		overflow: visible;
+		width: 1053px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Futura;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 150px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.5px;
+	}
+#mechanical_engineer_Index {
+		position: absolute;
+		left: 1535px;
+		top: 300px;
+		overflow: visible;
+		width: 308px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 30px;
+		color: rgba(112,112,112,1);
+		letter-spacing: 0.25px;
+	}
+.Insta_Logo {
+		position: absolute;
+		overflow: visible;
+		width: 70px;
+		height: 70px;
+		left: 501px;
+		top: 44px;
+	}
+.LI_Logo {
+		position: absolute;
+		overflow: visible;
+		width: 70px;
+		height: 70px;
+		left: 263px;
+		top: 44px;
+	}
+.Email_Logo {
+		position: absolute;
+		overflow: visible;
+		width: 78px;
+		height: 51px;
+		left: 377px;
+		top: 52px;
+	}
+#about_Index {
+		position: absolute;
+		left: 1039px;
+		top: 403px;
+		overflow: visible;
+		width: 137px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Futura;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 50px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+#portfolio_Index {
+		position: absolute;
+		left: 1459px;
+		top: 597px;
+		overflow: visible;
+		width: 206px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Futura;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 50px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+#resume_Index {
+		position: absolute;
+		left: 1232px;
+		top: 872px;
+		overflow: visible;
+		width: 168px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Futura;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 50px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+#Splash {
+		position: absolute;
+		width: 600px;
+		height: 608px;
+		left: 64px;
+		top: 330px;
+		overflow: visible;
+	}
+.Rectangle_26 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+	}
+.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 190px;
+		height: 91px;
+		left: 1014px;
+		top: 390px;
+	}
+.Rectangle_2 {
+		position: absolute;
+		overflow: visible;
+		width: 264px;
+		height: 91px;
+		left: 1435px;
+		top: 584px;
+	}
+.Rectangle_3 {
+		position: absolute;
+		overflow: visible;
+		width: 231px;
+		height: 91px;
+		left: 1204px;
+		top: 859px;
+	}
+.Line_3 {
+		overflow: visible;
+		position: absolute;
+		width: 653.138px;
+		height: 197.835px;
+		left: 360.5px;
+		top: 435.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+.Line_4 {
+		overflow: visible;
+		position: absolute;
+		width: 1075px;
+		height: 4px;
+		left: 360.5px;
+		top: 629.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+.Line_5 {
+		overflow: visible;
+		position: absolute;
+		width: 843.239px;
+		height: 278.803px;
+		left: 360.5px;
+		top: 629.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+.Line_8 {
+		overflow: visible;
+		position: absolute;
+		width: 66.971px;
+		height: 517.484px;
+		left: 297.5px;
+		top: 112.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+.Line_9 {
+		overflow: visible;
+		position: absolute;
+		width: 59.978px;
+		height: 528.422px;
+		left: 360.5px;
+		top: 101.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+.Line_10 {
+		overflow: visible;
+		position: absolute;
+		width: 178.79px;
+		height: 519.28px;
+		left: 360.5px;
+		top: 112.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+.PDF {
+		position: absolute;
+		overflow: scroll;
+		width: 1536px;
+		height: 650px;
+		left: 262px;
+		top: 435px;
+	}
+#navbar {
+		position: absolute;
+		left: 98px;
+		top: 148px;
+		overflow: visible;
+		width: 579px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Futura;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.25px;
+		word-spacing:25px;
+	}
+#Kelsey_Powers {
+		position: absolute;
+		left: 1272px;
+		top: 30px;
+		overflow: visible;
+		width: 527px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Futura;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 75px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.5px;
+	}
+#mechanical_engineer {
+		position: absolute;
+		left: 1502px;
+		top: 129px;
+		overflow: visible;
+		width: 297px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 30px;
+		color: rgba(112,112,112,1);
+		letter-spacing: 0.25px;
+	}
+.Rectangle_7 {
+		position: absolute;
+		overflow: visible;
+		width: 1536px;
+		height: 811px;
+		left: 262px;
+		top: 219px;
+	}
+.Rectangle_31 {
+		position: absolute;
+		overflow: visible;
+		width: 625px;
+		height: 15px;
+		left: 70px;
+		top: 168px;
+	}
+#resume {
+		position: absolute;
+		left: 288px;
+		top: 241px;
+		overflow: visible;
+		width: 201px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Futura;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 60px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+#Resume {
+		position: absolute;
+		background: #E5E5E5;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Resume;
+		--web-view-id: Resume;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+#About {
+		position: absolute;
+		background: #E5E5E5;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: About;
+		--web-view-id: About;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+#about {
+		position: absolute;
+		left: 288px;
+		top: 241px;
+		overflow: visible;
+		width: 164px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Futura;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 60px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+#Bio_Text {
+		position: absolute;
+		left: 381px;
+		top: 402px;
+		overflow: hidden;
+		width: 835px;
+		height: 628px;
+		line-height: 65px;
+		margin-top: -18.5px;
+		text-align: left;
+		font-family: Geneva;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(0,0,0,1);
+	}
+#Headshot_Caption {
+		position: absolute;
+		left: 1345px;
+		top: 675px;
+		overflow: hidden;
+		width: 381px;
+		height: 82px;
+		text-align: center;
+		font-family: Futura;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.25px;
+	}
+.Headshot {
+		filter: drop-shadow(2px 7px 10px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 260.5px;
+		height: 352px;
+		left: 1420px;
+		top: 327px;
+	}
+#portfolio {
+		position: absolute;
+		left: 288px;
+		top: 241px;
+		overflow: visible;
+		width: 247px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Futura;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 60px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.25px;
+	}
+#Portfolio {
+		position: absolute;
+		background: #E5E5E5;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Portfolio;
+		--web-view-id: Portfolio;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+
+
+body {
+  	font-family: Futura;
+}
+
+
+.main {
+  max-width: 1000px;
+}
+
+#myBtnContainer{
+	position: absolute;
+	left: 650px;
+	top: 300px;
+	overflow: visible;
+	width: 900px;
+}
+
+#gallery{
+	position: absolute;
+	left: 350px;
+	top: 450px;
+	height: 630px;
+	overflow: scroll;
+	width: 1425px;
+	scroll-behavior: smooth;
+}
+
+h1 {
+  font-family: Futura;
+  font-size: 50px;
+  word-break: break-all;
+}
+
+.row {
+  margin: 8px -16px;
+}
+
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  display: none; 
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.content {
+  background-color: white;
+  padding: 10px;
+}
+
+.show {
+  display: block;
+}
+
+.btn {
+  font-family: Futura;
+  font-size: 30px
+  border: none;
+  outline: none;
+  padding: 12px 30px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active {
+  background-color: black;
+  font-weight: bold;
+   color: white;
+}
